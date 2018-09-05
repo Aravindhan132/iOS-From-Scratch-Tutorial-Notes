@@ -1,4 +1,3 @@
-# iOS From Scratch Tutorial Notes
 https://www.youtube.com/watch?v=jMTw3JVYK70
 
 https://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-table-view-basics--cms-25160
@@ -91,6 +90,9 @@ http://swiftquickstart.blogspot.com/
 Struct :
 http://rshankar.com/uicollectionview-demo-in-swift/
 
+Cool Design :
+https://uijar.com/posts/geometric-shapes-loading-animation
+
 GUillotineMenuExample 
 Paging CollectionView
 Pinerest (Final project)
@@ -98,8 +100,21 @@ Tableview methods
 Json2degue
 Collectionrotate
 ZohoJson
+CircularProgressView
 PongApp(https://www.raywenderlich.com/261-how-to-make-a-uiviewcontroller-transition-animation-like-in-the-ping-app)
 
 Move Collectionview Items:
 https://github.com/jbuda/swapCollectionViewItems/blob/master/swapcollectionitems/ViewController.swift
 
+File Access :
+http://www.theappguruz.com/blog/working-ios-file-management-using-swift
+
+Create File Using Swift :
+https://www.youtube.com/watch?v=FWbVxE5N278
+
+Image Picker :
+https://www.youtube.com/watch?v=0EF2QsUOj90
+https://www.youtube.com/watch?v=uBmqZwA1mxw
+
+Any intelligent fool can make things bigger, more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction.
+ 
