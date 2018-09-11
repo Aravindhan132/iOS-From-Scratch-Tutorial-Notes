@@ -20,11 +20,9 @@ https://www.youtube.com/watch?v=aTj0ZLha1zE
 
 Carousel view :
 https://www.youtube.com/watch?v=vB-HKnhOgl8&t=1872s
-
-
-
+ 
 https://www.youtube.com/watch?v=Qx4GIKOwhD0
-
+82224
 Swiping view:
 https://www.youtube.com/watch?v=wUVfE8cY2Hw
 
@@ -101,6 +99,8 @@ Json2degue
 Collectionrotate
 ZohoJson
 CircularProgressView
+CoreDataTutorialPart1 —> Core Data JSON load
+MyTask , Core data example— > Core Data
 PongApp(https://www.raywenderlich.com/261-how-to-make-a-uiviewcontroller-transition-animation-like-in-the-ping-app)
 
 Move Collectionview Items:
@@ -115,6 +115,25 @@ https://www.youtube.com/watch?v=FWbVxE5N278
 Image Picker :
 https://www.youtube.com/watch?v=0EF2QsUOj90
 https://www.youtube.com/watch?v=uBmqZwA1mxw
+https://www.youtube.com/watch?v=BFZ4ZCw_9z4
 
+Permission :
+https://stackoverflow.com/questions/49917124/how-to-ask-permission-runtime-again-if-the-user-deny-for-the-first-time-swift
+
+JSON Data to Offline Storage :
+https://stackoverflow.com/questions/50790702/how-do-i-make-json-data-persistent-for-offline-use-swift-4
+https://www.youtube.com/watch?v=uLb8cs11h_g
+
+Core Data Definition
+https://medium.com/@chetan15aga/ios-interview-questions-part-5-core-data-dc97e29835f8 
+https://www.youtube.com/watch?v=qQmY97-qj9w
+
+https://code.tutsplus.com/series/core-data-and-swift--cms-907
+
+Core Data Without Using NSPersistent Container:
+SampleCoreData
+
+NSManagedobjectcontest
+UIWebviewKit —> For Cool Designs
 Any intelligent fool can make things bigger, more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction.
  
