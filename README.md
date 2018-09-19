@@ -101,6 +101,7 @@ ZohoJson
 CircularProgressView
 CoreDataTutorialPart1 —> Core Data JSON load
 MyTask , Core data example— > Core Data
+WebContent Change —> WebContent
 PongApp(https://www.raywenderlich.com/261-how-to-make-a-uiviewcontroller-transition-animation-like-in-the-ping-app)
 
 Move Collectionview Items:
@@ -130,10 +131,57 @@ https://www.youtube.com/watch?v=qQmY97-qj9w
 
 https://code.tutsplus.com/series/core-data-and-swift--cms-907
 
+Core DataRelationShip :
+https://github.com/daniellauer/swift3-tutorials
+
 Core Data Without Using NSPersistent Container:
 SampleCoreData
 
 NSManagedobjectcontest
 UIWebviewKit —> For Cool Designs
-Any intelligent fool can make things bigger, more complex and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction.
+
+https://developer.apple.com/videos/play/wwdc2018/410/
+
+Call Back and Threading :
+https://www.youtube.com/watch?v=YqhvVyiEpI0 
+
+Closure :
+https://www.youtube.com/watch?v=3KjeY3LLSx8
+
+Concurrency and Threading
+https://www.youtube.com/watch?v=iTcq6L-PaDQ
  
+Auto Update :
+https://www.youtube.com/watch?v=0JJJ2WGpw_I
+
+Keyboard Showing :
+https://www.youtube.com/watch?v=p8IaS5lmhuM
+
+Android Mysql:
+https://www.youtube.com/watch?v=TM1Suk7sLbc
+
+AWS WAMP INSTALL :
+https://www.youtube.com/watch?v=x4T9y82qnys
+
+
+INSERT Data to Firebase :
+https://www.youtube.com/watch?v=nIaNdxXBKFY
+
+Core Data RelationShip :
+https://www.youtube.com/watch?v=SbfBTp20_tk&list=PLTQyl3JwSx0K4HoZM1Nyv_-WWouAPnqhb
+
+WWDC Core data :
+https://developer.apple.com/videos/play/wwdc2016/242/
+
+Core Data Migration :
+https://medium.com/@maddy.lucky4u/swift-4-core-data-part-5-core-data-migration-3fc32483a5f2
+
+WebViewKit (WKKit) :
+https://developer.apple.com/documentation/webkit/wkuidelegate
+
+Parse HTML webkit :
+https://www.raywenderlich.com/2899-how-to-parse-html-on-ios
+
+Getting the specific element :
+https://www.youtube.com/watch?v=mGQJl5I4-b4
+
